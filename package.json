@@ -1,0 +1,19 @@
+{
+  "name": "viewports-units-buggyfill-mm",
+  "version": "1.0.0",
+  "description": "Viewports pollyfill",
+  "main": "viewport-units-buggyfill.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mentimeter/viewport-units-buggyfill-ie9.git"
+  },
+  "author": "Mentimeter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mentimeter/viewport-units-buggyfill-ie9/issues"
+  },
+  "homepage": "https://github.com/mentimeter/viewport-units-buggyfill-ie9#readme"
+}
